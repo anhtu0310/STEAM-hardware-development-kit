@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ethernet.SchDoc|FileName=LEDS_DISP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ethernet.SchDoc|FileName=Other_funtions.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ethernet.SchDoc|FileName=POWER_SCH.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=ethernet.SchDoc|FileName=VGA.SchDoc|SheetNumber= 
